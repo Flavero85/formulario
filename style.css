@@ -1,0 +1,30 @@
+body
+
+.nome{    
+    color: red;
+    font-size: 48px;
+    font: bolder;
+    
+
+}
+
+.endereco{
+    color: green;
+    font-size: 40px;
+}
+
+.cidade{
+    color: blue;
+    font-size: 34px;
+}
+
+.email{
+    color: black;
+    font-size: 30px;
+}
+
+.msg{
+    color: aqua;
+    font-size: 24px;
+    margin-top: 1%;
+}
